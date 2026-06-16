@@ -1,6 +1,6 @@
 # Cloudflare Bypass for Scraping
 
-> ⭐ **Thank you for 1,800+ stars!** Introducing **Version 2.0** with enhanced request mirroring, improved caching and better reliability for bypassing Cloudflare protection.
+> ⭐ **Thank you for 2,800+ stars!** Introducing **Version 2.0** with enhanced request mirroring, improved caching and better reliability for bypassing Cloudflare protection.
 
 Bypass Cloudflare protection with ease. Supports cookie generation and request mirroring for any HTTP method. 
 
